@@ -6,3 +6,4 @@ educational project in RS school
 Например, к ним относятся OMDb RESTful API, The Movie Database (TMDB), также при создании приложения можно использовать другие подходящие API.
 
 ## view project link
+https://everybarry.github.io/movie-search-app/
